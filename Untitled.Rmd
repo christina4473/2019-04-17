@@ -257,3 +257,7 @@ favoriteTwo[logiCorrect] -> validFavoriteTwo
 validFavoriteTwo
 ```
 
+```{r}
+stulist <- t
+```
+
